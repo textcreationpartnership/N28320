@@ -118,14 +118,14 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037748_0000_100EFECC283DE528"/>
-            <pb facs="tcp:037748_0001_100ED486F8AF17D8"/>
+            <pb facs="unknown:037748_0000_100EFECC283DE528"/>
+            <pb facs="unknown:037748_0001_100ED486F8AF17D8"/>
             <p>THE EAST INDIAN: A COMEDY, IN THREE ACTS.</p>
             <p>TRANSLATED FROM THE GERMAN OF KOTZEBUE.</p>
             <p>NEW-YORK: PRINTED FOR CHARLES SMITH AND S. STEPHENS. 1800.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:037748_0002_100ED489410BE9F0"/>
+            <pb facs="unknown:037748_0002_100ED489410BE9F0"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <item>
@@ -158,7 +158,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:037748_0003_100ED48B1EEB7378"/>
+            <pb facs="unknown:037748_0003_100ED48B1EEB7378"/>
             <head>THE EAST INDIAN.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -215,7 +215,7 @@
                      <p>His many occupations.</p>
                   </sp>
                   <sp>
-                     <pb n="4" facs="tcp:037748_0004_100EFEAC9DB7F4B8"/>
+                     <pb n="4" facs="unknown:037748_0004_100EFEAC9DB7F4B8"/>
                      <speaker>S. John.</speaker>
                      <p>Fie, fie, gratitude towards father and mother, ought to be the first occupation of a child. Samuel is a sneaking fellow—and as for Robert—</p>
                   </sp>
@@ -278,7 +278,7 @@ God bless you, and may nature only spare my life so long <gap reason="illegible"
                      <p>I curse him not.</p>
                   </sp>
                   <sp>
-                     <pb n="5" facs="tcp:037748_0005_100EFEAE5FF1A490"/>
+                     <pb n="5" facs="unknown:037748_0005_100EFEAE5FF1A490"/>
                      <speaker>Liddy.</speaker>
                      <p>But your blessing.</p>
                   </sp>
@@ -343,7 +343,7 @@ Shall I proceed?</p>
                      <p>Do so: perhaps I may be able to catch a nap.</p>
                   </sp>
                   <sp>
-                     <pb n="6" facs="tcp:037748_0006_100EFEB0FA5C2F80"/>
+                     <pb n="6" facs="unknown:037748_0006_100EFEB0FA5C2F80"/>
                      <speaker>Liddy.</speaker>
                      <p>But would it not then be much better to suffer me to carry you to your own chamber? Here there is a conti<g ref="char:EOLhyphen"/>nual running about, and a continual knocking at the doors; sometimes people coming to us, and sometimes people coming to the foreigner.</p>
                   </sp>
@@ -402,7 +402,7 @@ Softly, the old gen<g ref="char:EOLhyphen"/>tleman is asleep.</p>
                      <p>Well, well, you shall have some more half-pence for it. There, take this pair of ruffles.</p>
                   </sp>
                   <sp>
-                     <pb n="7" facs="tcp:037748_0007_100EFEB2E6AED8E8"/>
+                     <pb n="7" facs="unknown:037748_0007_100EFEB2E6AED8E8"/>
                      <speaker>Tom.</speaker>
                      <p>For sale again?</p>
                   </sp>
@@ -474,7 +474,7 @@ It is so sweet to work for a father, and goes so easily through one's fingers.</
                      <p>Good morning.
 <stage>[Aside.]</stage>
 Have I remembered to look up every thing? I must see<g ref="char:punc">▪</g> Here is the key of the
-<pb n="8" facs="tcp:037748_0008_100EFEB4D4913A70"/>
+<pb n="8" facs="unknown:037748_0008_100EFEB4D4913A70"/>
 desk, here is that of the coffer, and here is that of the cup<g ref="char:EOLhyphen"/>board: all right.
 <stage>[About to go.]</stage>
                      </p>
@@ -549,7 +549,7 @@ I?</p>
                      <p>And I ask, when any one without permission, rummages in their sister's pocket-book, is not one a rogue? answer<g ref="char:punc">▪</g> yes.</p>
                   </sp>
                   <sp>
-                     <pb n="9" facs="tcp:037748_0009_100EFEB6DB006E08"/>
+                     <pb n="9" facs="unknown:037748_0009_100EFEB6DB006E08"/>
                      <speaker>Samuel.</speaker>
                      <p>Who can help it, if other people do not think it necessary to take as much care of their pocket-books as I do of mine.</p>
                   </sp>
@@ -620,7 +620,7 @@ And you?</p>
                      <p>That very circumstance proves that you have not much of it. Man is content with nothing in the world, except only with his own understanding; the less of it <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>e
-<pb n="10" facs="tcp:037748_0010_100EFEB8D228E918"/>
+<pb n="10" facs="unknown:037748_0010_100EFEB8D228E918"/>
 has, the more is he content—<hi>Sans badinage.</hi> I will not sup<g ref="char:EOLhyphen"/>pose that either of you are capable of thinking seriously of such a thing; for although on your father's side, you are only of burgher extraction, yet as ancient and honorable blood flows in the veins of your mother—
 <stage>[<hi>Looks at Samuel and Liddy alternately, as if she was expecting an answer: both are silent: Liddy sews, and Samuel plays with his era<gap reason="illegible" resp="#PDCC" extent="1 letter">
                                  <desc>•</desc>
@@ -686,7 +686,7 @@ Well, that may perhaps be the case.</p>
                      <p>A leg at best is only a leg; and a gouty leg is of no value.</p>
                   </sp>
                   <sp>
-                     <pb n="11" facs="tcp:037748_0011_100EFEBABA50BDD0"/>
+                     <pb n="11" facs="unknown:037748_0011_100EFEBABA50BDD0"/>
                      <speaker>S. John.</speaker>
                      <p>Very true.</p>
                   </sp>
@@ -751,7 +751,7 @@ Well, that may perhaps be the case.</p>
                      <p>That indeed I will not.</p>
                   </sp>
                   <sp>
-                     <pb n="12" facs="tcp:037748_0012_100EFEBC436E9210"/>
+                     <pb n="12" facs="unknown:037748_0012_100EFEBC436E9210"/>
                      <speaker>S. John.</speaker>
                      <p>But if he should do it, he will then perform the first prudent action of his life. The girl is most amiable; her flat nose is bewitching, and the <hi>naivete</hi> of her humor en<g ref="char:EOLhyphen"/>chanting.</p>
                   </sp>
@@ -795,7 +795,7 @@ Well, that may perhaps be the case.</p>
                   <sp>
                      <speaker>S. John.</speaker>
                      <p>No, truly not! but I hold that point superfluous. The girl is born, and well born too; by which I understand that she is sound and healthy, and has all her limbs standing
-<pb n="13" facs="tcp:037748_0013_100EFEBE356AAAD8"/>
+<pb n="13" facs="unknown:037748_0013_100EFEBE356AAAD8"/>
 where they should be; a hunch-back girl, had she a hundred ancestors, would always in my opinion be very ill born.</p>
                   </sp>
                   <sp>
@@ -860,7 +860,7 @@ where they should be; a hunch-back girl, had she a hundred ancestors, would alwa
                      <p>Prudence is the mother of wisdom.</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:037748_0014_100EFEC0A0CDC420"/>
+                     <pb n="14" facs="unknown:037748_0014_100EFEC0A0CDC420"/>
                      <speaker>L. Smith.</speaker>
                      <p>Your prudence is an <hi>ignis fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
                               <desc>••</desc>
@@ -919,7 +919,7 @@ where they should be; a hunch-back girl, had she a hundred ancestors, would alwa
                      <p>A resolution! Gracious mamma! now indeed you terrify me. I think that though I were persuaded a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>
-                        <pb n="15" facs="tcp:037748_0015_100EFEC29909ED68"/>
+                        <pb n="15" facs="unknown:037748_0015_100EFEC29909ED68"/>
 this moment, that the girl was a princess, and her father a prince, with whole chestfulls of gold in his possession; I would still shudder at the thought, the formidable thought of taking a resolution.</p>
                   </sp>
                   <sp>
@@ -981,7 +981,7 @@ Foolish man! How must I understand that? You are impolite, Miss.</p>
                         </gap>iver Ganges before thee.</p>
                   </sp>
                   <sp>
-                     <pb n="16" facs="tcp:037748_0016_100EFEC487A52B28"/>
+                     <pb n="16" facs="unknown:037748_0016_100EFEC487A52B28"/>
                      <speaker>Samuel.</speaker>
                      <p>I observe that the education in Bengal is yet very much neglected. Children talk of things which they do not understand.</p>
                   </sp>
@@ -1070,7 +1070,7 @@ Married, indeed!</p>
 I must approach nearer.</p>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:037748_0017_100EFEC6A39690B0"/>
+                     <pb n="17" facs="unknown:037748_0017_100EFEC6A39690B0"/>
                      <speaker>Gurli.</speaker>
                      <p>
                         <stage>[Yawning.]</stage>
@@ -1161,7 +1161,7 @@ Now we have it.</p>
                      </p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:037748_0018_100EFECA39FB9CD8"/>
+                     <pb n="18" facs="unknown:037748_0018_100EFECA39FB9CD8"/>
                      <speaker>Samuel.</speaker>
                      <p>
                         <stage>[Much confused.]</stage>
@@ -1220,7 +1220,7 @@ I hope, how<g ref="char:EOLhyphen"/>ever, that matters are not yet so bad with h
                   <sp>
                      <speaker>Tidewaiter.</speaker>
                      <p>To a wish: I have crept about after him, like a reptile—followed him from the coffee-house to the opera,
-<pb n="19" facs="tcp:037748_0019_100ED48462327888"/>
+<pb n="19" facs="unknown:037748_0019_100ED48462327888"/>
 and from the quay to the exchange, and there, in all haste, I have caught a great deal of information.</p>
                   </sp>
                   <sp>
@@ -1266,7 +1266,7 @@ and from the quay to the exchange, and there, in all haste, I have caught a grea
                         </gap>cial house of Brown and Belton was, last week, upon <gap reason="illegible" resp="#PDCC" extent="1 span">
                            <desc>〈…〉</desc>
                         </gap> of failing: it was already talked of openly upon Change; and, as it is custo<g ref="char:EOLhyphen"/>mary, the one pitied them; another shrugged up his shoul<g ref="char:EOLhyphen"/>ders; and a third spoke of rain and sunshine. Kaberdar, whom I sneaked after in all haste, went from one merchant to another, and procured full information of the circumstan<g ref="char:EOLhyphen"/>ces. He heard every where, that Brown and Belton were men of fine honest characters; who, by means of several un<g ref="char:EOLhyphen"/>merited misfortunes, had fallen into this desperate situation.
-<pb n="20" facs="tcp:037748_0020_100EFECDAD341CF0"/>
+<pb n="20" facs="unknown:037748_0020_100EFECDAD341CF0"/>
 What does he? He sets himself down with the greatest pre<g ref="char:EOLhyphen"/>cipitation, and writes immediately to Brown and Belton, a card to the following purpose: "If ten thousand pounds sterling would be sufficient to extricate ye from your present perplexity, ye are welcome to the loan of that sum, with<g ref="char:EOLhyphen"/>out interest for six months."—Brown and Belton, who had never set eyes upon the man in their lives, are almost be<g ref="char:EOLhyphen"/>side themselves with astonishment and rapture, honor their bills, and carry on their business with all their former prompt<g ref="char:EOLhyphen"/>ness and expedition; and venerate an East Indian as much as a saint.</p>
                   </sp>
                   <sp>
@@ -1310,7 +1310,7 @@ What does he? He sets himself down with the greatest pre<g ref="char:EOLhyphen"/
                            <desc>•••</desc>
                         </gap>
                         <g ref="char:EOLhyphen"/>mation a little more positive and circumstantial. If this agreeable intelligence be confirmed, then Gurli has a dowry to produce, which will throw a veil over the manifold de<g ref="char:EOLhyphen"/>fects of her manners. I will immediately repair to the Ex<g ref="char:EOLhyphen"/>change.
-<pb n="21" facs="tcp:037748_0021_100EFED05732B0B0"/>
+<pb n="21" facs="unknown:037748_0021_100EFED05732B0B0"/>
 Have you any thing more to impart to me on this subject?</p>
                   </sp>
                   <sp>
@@ -1333,7 +1333,7 @@ Have you any thing more to impart to me on this subject?</p>
                      </gap>d the answer be always, Yes.—After so much trouble, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>nd so many exertions, to put me off with a few empty words. Such, however, is the way of the world. There is scarcely one honest man in employment, who has not one over him worse than himself. If any one wishes speedily and quickly to eat their morsel with ease and comfort, he
-<pb n="22" facs="tcp:037748_0022_100EFED2405DDF40"/>
+<pb n="22" facs="unknown:037748_0022_100EFED2405DDF40"/>
 must submit to bow with so much deference to empty heads, and full paunches, as old Kaberdar to cows and oxen,—
 <stage>[Shrugging up his shoulders.]</stage>
 He is my superior—he often winks when I am filling my pockets; and so let us be alert and do him some service.
@@ -1394,7 +1394,7 @@ What dost thou want good friend? <gap reason="illegible" resp="#PDCC" extent="1 
                      <p>Then it was to the wooden door: for in this apartment, there are but three persons; my master, my master's daughter, and I.</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:037748_0023_100EFED429AEEDD0"/>
+                     <pb n="23" facs="unknown:037748_0023_100EFED429AEEDD0"/>
                      <speaker>Tidewaiter.</speaker>
                      <p>
                         <stage>[Recovering gradually from his confusion.]</stage>
@@ -1491,7 +1491,7 @@ Brama! Who is that good gentleman? I never remember to have heard him named. Is 
                   </sp>
                </div>
                <div n="10" type="scene">
-                  <pb n="24" facs="tcp:037748_0024_100EFED615A32B58"/>
+                  <pb n="24" facs="unknown:037748_0024_100EFED615A32B58"/>
                   <head>SCENE X.</head>
                   <stage>KABERDAR, MUSAFFERY, <hi>and the</hi> OFFICER.</stage>
                   <sp>
@@ -1548,7 +1548,7 @@ He had laid his ear close to the door, in order to hear about my welfare.</p>
                      <p>
                         <stage>[Retreating gradually to the door.]</stage>
 How! what! turn me out! Me, who am by far the alertest, the busiest, and most active man in the whole city! A man who has sa<g ref="char:EOLhyphen"/>crificed
-<pb n="25" facs="tcp:037748_0025_100EFED7C8834A70"/>
+<pb n="25" facs="unknown:037748_0025_100EFED7C8834A70"/>
 his restless life to haste and expedition, for the ser<g ref="char:EOLhyphen"/>vice of old England! and such a man to be turned out! What do you mean by turning out? whether do you mean to turn me, sir?</p>
                   </sp>
                   <sp>
@@ -1597,7 +1597,7 @@ Thou would'st not?</p>
                   <sp>
                      <speaker>Kaberdar.</speaker>
                      <p>Say, my old faithful servant, didst thou then consider me as happy, when both French and English were soliciting my friendship and alliance? when I was entang<g ref="char:EOLhyphen"/>led
-<pb n="26" facs="tcp:037748_0026_100EFEDA87DD0020"/>
+<pb n="26" facs="unknown:037748_0026_100EFEDA87DD0020"/>
 against my will, in their senseless disputes? when I now assisted the one from inclination; and now served the other by constraint? when I was every other moment in want of money, to satisfy the rapacity of my murmuring soldiers? when the court of Delhi was weaving plots against me; and I was obliged, in order to maintain my dignity, to descend with reluctance to mean artifices? armies both of Europeans and Indians were laying waste my flourishing province, and profaning sacrilegiously my holy pagods? when at last the rebellion of my brother broke out against me, and I spent so many sleepless nights, tossing on my anxious and restless couch? say, was I then happy?</p>
                   </sp>
                   <sp>
@@ -1639,7 +1639,7 @@ against my will, in their senseless disputes? when I now assisted the one from i
                      <p>For us it will never arise again—</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:037748_0027_100EFEDC7521F978"/>
+                     <pb n="27" facs="unknown:037748_0027_100EFEDC7521F978"/>
                      <speaker>Kaberdar.</speaker>
                      <p>Why not? if not on the banks of the Ganges; why not on the banks of the Thames? I have indeed lost much: but still much remains for me to gain.—Repose and contentment, were not the ornaments of the royal turban of Mysore; for these are jewels which the justice of the Gods has not reserved for the race of the Rajahs. I now follow, at your invitation, ye sweet pleasures of unenvied medio<g ref="char:EOLhyphen"/>crity: to you I now willingly descend; or to speak more properly, ascend. Am I either old or impotent? May I not still be the father of sons, to constitute the joys of my future days? Faithful Musaffery, I will take a wife; I will purchase more property with the treasures I have saved; and exchange with pleasure, that throne, where ten thou<g ref="char:EOLhyphen"/>sand mutinous slaves paid me homage, for the calm and un<g ref="char:EOLhyphen"/>envied lordship over a hundred peaceful Europeans.</p>
                   </sp>
@@ -1666,7 +1666,7 @@ her glance is a sunbeam, upon which the souls enter into Wischenu's paradise! Th
                         </gap>gain as happy?</p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:037748_0028_100EFEDEDB825008"/>
+                     <pb n="28" facs="unknown:037748_0028_100EFEDEDB825008"/>
                      <speaker>Musaffery.</speaker>
                      <p>
                         <stage>[After a pause.]</stage>
@@ -1709,7 +1709,7 @@ Father, the time hangs heavy on Gurli.</p>
                      <p>Well then, kill the time in prattle.</p>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:037748_0029_100EFEE18BAA6B70"/>
+                     <pb n="29" facs="unknown:037748_0029_100EFEE18BAA6B70"/>
                      <speaker>Gurli.</speaker>
                      <p>Prattle! with whom should Gurli prattle? My fa<g ref="char:EOLhyphen"/>ther is seldom at home: Musaffery is dumb: the old nasty mother yonder is always scolding: Samuel is a fool: and Liddy —</p>
                   </sp>
@@ -1778,7 +1778,7 @@ Indeed!</p>
                      <p>Yes, indeed.</p>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:037748_0030_100EFEE375420498"/>
+                     <pb n="30" facs="unknown:037748_0030_100EFEE375420498"/>
                      <speaker>Gurli.</speaker>
                      <p>Ah! Gurli knows not herself rightly what is the matter with her.</p>
                   </sp>
@@ -1861,7 +1861,7 @@ Me! fair Gurli! that won't do!</p>
                      <p>What matters that?</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:037748_0031_100EFEE611E9B180"/>
+                     <pb n="31" facs="unknown:037748_0031_100EFEE611E9B180"/>
                      <speaker>Musaffery.</speaker>
                      <p>Fair Gurli, an old man must not marry a young girl.</p>
                   </sp>
@@ -1923,7 +1923,7 @@ Well, upon my honor, such impertinence I have never me<gap reason="illegible" re
                      <p>Old motherkin! Better and better!</p>
                   </sp>
                   <sp>
-                     <pb n="32" facs="tcp:037748_0032_100EFEE796074840"/>
+                     <pb n="32" facs="unknown:037748_0032_100EFEE796074840"/>
                      <speaker>Gurli.</speaker>
                      <p>Gurli is very fond of laughing: thou must not take it ill of Gurli.</p>
                   </sp>
@@ -1994,7 +1994,7 @@ Rajah! Rajah! I will, for my amusement, as soon as I come home, turn over Rup<g 
                   </sp>
                </div>
                <div n="14" type="scene">
-                  <pb n="33" facs="tcp:037748_0033_100EFEEA2EA01C88"/>
+                  <pb n="33" facs="unknown:037748_0033_100EFEEA2EA01C88"/>
                   <head>SCENE XIV.</head>
                   <sp>
                      <speaker>GURLI</speaker>
@@ -2020,7 +2020,7 @@ Oh! one might die laughing at this. Gurli must let her father see it.</p>
                   </sp>
                </div>
                <div n="2" type="scene">
-                  <pb n="34" facs="tcp:037748_0034_100EFEEC419745B8"/>
+                  <pb n="34" facs="unknown:037748_0034_100EFEEC419745B8"/>
                   <head>SCENE II.</head>
                   <stage>KABERDAR <hi>and</hi> TOM, <hi>with the ruffies in his hand.</hi>
                   </stage>
@@ -2105,7 +2105,7 @@ How dear did'st thou say?</p>
                      <p>Three crowns, noble Sir!</p>
                   </sp>
                   <sp>
-                     <pb n="35" facs="tcp:037748_0035_100EFEEEA7AFB2D0"/>
+                     <pb n="35" facs="unknown:037748_0035_100EFEEEA7AFB2D0"/>
                      <speaker>Kaberdar.</speaker>
                      <p>Three guineas, I tell you; carry them to Miss Liddy. And here is a crown to thyself upon this condition, that thou shall not blab out the purchaser of the ruffles. If she asks, you may tell her, that you sold them upon Change to a foreign gentleman, whom you saw for the first time in your life.</p>
                   </sp>
@@ -2169,7 +2169,7 @@ This is decisive. Such a heart must command happiness: were she even not beauti<
                   </sp>
                </div>
                <div n="3" type="scene">
-                  <pb n="36" facs="tcp:037748_0036_100EFEF0F7125F98"/>
+                  <pb n="36" facs="unknown:037748_0036_100EFEF0F7125F98"/>
                   <head>SCENE III.</head>
                   <stage>LIDDY <hi>and</hi> KABERDAR.</stage>
                   <sp>
@@ -2249,7 +2249,7 @@ I am an honest man. Will you marry me?</p>
 Sir! My God!</p>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:037748_0037_100EFEF2BB222B18"/>
+                     <pb n="37" facs="unknown:037748_0037_100EFEF2BB222B18"/>
                      <speaker>Kaberdar.</speaker>
                      <p>
                         <stage>[Letting go her hand, in a gentle tone.]</stage>
@@ -2292,7 +2292,7 @@ Sir, I have a father and a mother.</p>
                   <sp>
                      <speaker>Kaberdar.</speaker>
                      <p>I thank you, Miss, for deigning to enquire. Such condescension proves at least that your answer to my declaration is yet doubtful, You shall be told immediately
-<pb n="38" facs="tcp:037748_0038_100EFEF4ABEBAED0"/>
+<pb n="38" facs="unknown:037748_0038_100EFEF4ABEBAED0"/>
 who I am. Not a heart in England has yet participated with me in the secret of my rank and sufferings. I was born on the banks of the Ganges, and in the bosom of feli<g ref="char:EOLhyphen"/>city; brought up by my uncle the sovereign of Mysore, a man of honor, whose throne and whose enemies I fell heir to. I was then scarcely sixteen years of age. They gave me wives, because custom would have it so: and by the time I was twenty, I saw myself already the father of five sons and a daughter. I was happy, for I was beloved by my people, and esteemed both by the French and English; and dreaded by all my enemies and neighbours; peace reigned in my kingdom and in my palace. I was happy then—thanks be to Providence. Man is ever blind to fu<g ref="char:EOLhyphen"/>turity. That I was cherishing serpents in my bosom; that my own brothers were conspiring against my crown and my life; and scattering the seeds of rebellion among my sub<g ref="char:EOLhyphen"/>jects, was never once suspected by my credulous heart. At last the conspiracy broke out; the sceptre of Mysore was torn in one unhappy night from my hand; and also, my wives and my sons became the prey of the sanguinary victor. Only I with my daughter, and an old faithful servant, were so fortunate, after a thousand dangers, to reach at last the sea-coast. There lay two English ships just ready to set sail; one of which received us, weighed anchor, and brought us to Liddy's native land. If Liddy will restore to me what I have lost, then shall this be the last sigh which I will ever send after the happiness that is gone.</p>
                   </sp>
                   <sp>
@@ -2316,7 +2316,7 @@ There is but one path to Heaven, the path of virtue.</p>
                      <p>Our Bramins say, through the pagods: but be that as it may, when led by your hand, I shall never be in danger of departing from it. Well, Miss, any more objec<g ref="char:EOLhyphen"/>tions? I will readily hear them, and as readily answer them.</p>
                   </sp>
                   <sp>
-                     <pb n="39" facs="tcp:037748_0039_100EFEF7A4A01940"/>
+                     <pb n="39" facs="unknown:037748_0039_100EFEF7A4A01940"/>
                      <speaker>Liddy.</speaker>
                      <p>
                         <stage>[Still with maiden bashfulness.]</stage>
@@ -2397,7 +2397,7 @@ Your wives, you said, became a prey to the conqueror; they are then dead?</p>
                   <sp>
                      <speaker>Kaberdar.</speaker>
                      <p>It swims in every one of my glances.—Well, then, perhaps adventitious circumstances may be more ef<g ref="char:EOLhyphen"/>fectual in persuading you to believe, that my resolution to
-<pb n="40" facs="tcp:037748_0040_100EFEF92AFDD818"/>
+<pb n="40" facs="unknown:037748_0040_100EFEF92AFDD818"/>
 remain in England, is my serious, unalterable intention.— All that I was able, at that unlucky moment, to save out of my royal treasures, were my diamonds—only baubles to a prince; but a considerable treasure to a private man. These I have turned into money, and purchased English estates with it.—Do you know Roger's-hall?</p>
                   </sp>
                   <sp>
@@ -2429,7 +2429,7 @@ in the circle of your children; and what you will perhaps value more than all, i
 Well then—</p>
                   </sp>
                   <sp>
-                     <pb n="41" facs="tcp:037748_0041_100EFEFAB42793E8"/>
+                     <pb n="41" facs="unknown:037748_0041_100EFEFAB42793E8"/>
                      <speaker>Kaberdar.</speaker>
                      <p>
                         <stage>[Seizing her hand with transport, puts his arm about her neck, and kisses her.]</stage>
@@ -2485,7 +2485,7 @@ Yes, Liddy may give one tear to Fazir; let this one, however, be the last. Fie, 
                      </p>
                   </sp>
                   <sp>
-                     <pb n="42" facs="tcp:037748_0042_100EFEFC7794F548"/>
+                     <pb n="42" facs="unknown:037748_0042_100EFEFC7794F548"/>
                      <speaker>Samuel.</speaker>
                      <p>
                         <stage>[Seizing her hand with great eagerness.]</stage>
@@ -2547,7 +2547,7 @@ Gurli's father!</p>
                   <sp>
                      <speaker>Liddy.</speaker>
                      <p>Troublesome man! I know it from his own con<g ref="char:EOLhyphen"/>fession, and from the generosity of his behaviour to me.—
-<pb n="43" facs="tcp:037748_0043_100EFEFFD68E6DE8"/>
+<pb n="43" facs="unknown:037748_0043_100EFEFFD68E6DE8"/>
 Apropos. Thou art a lover of hunting: next autumn, you may course hares, at my house of Roger's-hall.</p>
                   </sp>
                   <sp>
@@ -2602,7 +2602,7 @@ Reject me! Hum—well might I ask, is Liddy in her senses? answer: scarcely.</p>
                   </sp>
                </div>
                <div n="6" type="scene">
-                  <pb n="44" facs="tcp:037748_0044_100EFF01A26870F0"/>
+                  <pb n="44" facs="unknown:037748_0044_100EFF01A26870F0"/>
                   <head>SCENE VI.</head>
                   <stage>GURLI, LIDDY, <hi>and</hi> SAMUEL.</stage>
                   <sp>
@@ -2690,7 +2690,7 @@ Yes, I will marry.</p>
                   <sp>
                      <speaker>Gurli.</speaker>
                      <p>Yes, dear Liddy: there is another awkward cir<g ref="char:EOLhyphen"/>cumstance, my father says that when one is married, it is
-<pb n="45" facs="tcp:037748_0045_100EFF03A47F3360"/>
+<pb n="45" facs="unknown:037748_0045_100EFF03A47F3360"/>
 then their duty to stay with their husband. For example, if my husband stays in Bengal, and my father in the Maratta country, then must Gurli stay in Bengal with her husband.</p>
                   </sp>
                   <sp>
@@ -2766,7 +2766,7 @@ Shall I then promise this? why not? be<g ref="char:EOLhyphen"/>fore hand one may
 The love, by which thou, charming creature, ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> soon to be
-<pb n="46" facs="tcp:037748_0046_100EFF06FA9BD090"/>
+<pb n="46" facs="unknown:037748_0046_100EFF06FA9BD090"/>
 united to Mr. Samuel Smith, is more powerful than filial ten<g ref="char:EOLhyphen"/>derness. There remains only one question to be answered: when shall our wedding be, fair Gurli?</p>
                   </sp>
                   <sp>
@@ -2838,7 +2838,7 @@ Remember, I tell thee, if the notaries are hand<g ref="char:EOLhyphen"/>somer th
                   </sp>
                </div>
                <div n="7" type="scene">
-                  <pb n="47" facs="tcp:037748_0047_100EFF0883C408F8"/>
+                  <pb n="47" facs="unknown:037748_0047_100EFF0883C408F8"/>
                   <head>SCENE VII.</head>
                   <stage>LIDDY <hi>and</hi> GURLI.</stage>
                   <sp>
@@ -2946,7 +2946,7 @@ He says that thy fa<g ref="char:EOLhyphen"/>ther was once Na<gap reason="illegib
                         </gap>e</p>
                   </sp>
                   <sp>
-                     <pb n="48" facs="tcp:037748_0048_100EFF0A0B43AEA8"/>
+                     <pb n="48" facs="unknown:037748_0048_100EFF0A0B43AEA8"/>
                      <speaker>Gurli.</speaker>
                      <p>
                         <stage>[Creeping close to Liddy with apparent terror.]</stage>
@@ -3001,7 +3001,7 @@ and yet they have driven him from his native country; and murdered his wives and
 If I had him here, I would fix these nails firmly enough in his bristly locks.—He wished also to be Nabob of Mysore; and the other with the long nose too. Well, they plotted a sad villainy together, and got all the Nairs upon their side, and in one night they at<g ref="char:EOLhyphen"/>tacked our house. Ah! dear Liddy, what a fright; and a shrieking, and a wailing, and a terrible alarm. Ah! I shud<g ref="char:EOLhyphen"/>der still when I think of that night. I sprung out of bed, and was quite out of my wits—Ha, ha, ha! my gold neck<g ref="char:EOLhyphen"/>lace I tied about my arm, and wrapt my apron about my head.
 <stage>[Weeping.]</stage>
 My poor father was obliged to fly through thick and thin in the dark night, and Gurli fled with him.
-<pb n="49" facs="tcp:037748_0049_100EFF0B91492FA8"/>
+<pb n="49" facs="unknown:037748_0049_100EFF0B91492FA8"/>
 Gurli sat in a palanquin; old Musaffery assisted to carry it;
 <stage>[Laughing.]</stage>
 and because it was a labour he had not been used to, he was falling every moment into the mire. At length we came to the sea shore. My father was calm and gloomy, and spoke not a word.
@@ -3071,7 +3071,7 @@ Certainly he knows.</p>
                      <p>What a pity! I wish he had not yet known it. Gurli would have been so happy to have told him.</p>
                   </sp>
                   <sp>
-                     <pb n="50" facs="tcp:037748_0050_100EFF0F103F7068"/>
+                     <pb n="50" facs="unknown:037748_0050_100EFF0F103F7068"/>
                      <speaker>Liddy.</speaker>
                      <p>But he knows not yet, that you are to marry my brother.</p>
                   </sp>
@@ -3127,7 +3127,7 @@ Brother Ro<g ref="char:EOLhyphen"/>bert is come! Brother Robert is come!
                   </sp>
                </div>
                <div n="9" type="scene">
-                  <pb n="51" facs="tcp:037748_0051_100EFF10F796AEB0"/>
+                  <pb n="51" facs="unknown:037748_0051_100EFF10F796AEB0"/>
                   <head>SCENE IX.</head>
                   <stage>
                      <hi>Sir</hi> JOHN, <hi>rolled in upon his Chair by</hi> LIDDY <hi>and</hi> JACK.</stage>
@@ -3186,7 +3186,7 @@ Brother Ro<g ref="char:EOLhyphen"/>bert is come! Brother Robert is come!
                   <sp>
                      <speaker>Jack.</speaker>
                      <p>Wrong not your son, sir, a nobler fellow never broke biscuit, that I'll maintain. You must know, that as we were on our return, and steering about two hundred
-<pb n="52" facs="tcp:037748_0052_100EFF1280E1AD70"/>
+<pb n="52" facs="unknown:037748_0052_100EFF1280E1AD70"/>
 leagues to the westward of the Canary Island<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> early one morning, we perceived at a distance somethi<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -3233,7 +3233,7 @@ but I'll be damn'd if my upper bowsprit is not always wet with spray-water, when
                   </sp>
                </div>
                <div n="10" type="scene">
-                  <pb n="53" facs="tcp:037748_0053_100EFF146085F550"/>
+                  <pb n="53" facs="unknown:037748_0053_100EFF146085F550"/>
                   <head>SCENE X.</head>
                   <stage>ROBERT, <hi>Sir</hi> JOHN, LIDDY, <hi>and</hi> JACK.</stage>
                   <stage>[Liddy flies into his arms.]</stage>
@@ -3303,7 +3303,7 @@ Come, come, help the poor old sinner forwards.</p>
                      <speaker>LIDDY</speaker>
                      <stage>alone.</stage>
                      <p>How is it with me? Ah, my resolution is wonderful! I had not the courage to enquire after him. Is he come back<g ref="char:punc">▪</g> or, have they left him in the West-Indies? or, is he sick<g ref="char:punc">▪</g> or, dead? Alas! what matters it to me! What business
-<pb n="54" facs="tcp:037748_0054_100EFF1795F8E0C0"/>
+<pb n="54" facs="unknown:037748_0054_100EFF1795F8E0C0"/>
 have I to ask after him? Fate seems desirous to put me to the trial, whether I am truly in earnest, in sacrificing the first attachment of my heart to filial duty, and filial love. It appeared so easy to me; but, alas! it is not so easy as I thought. Well, but the victory is the more glorious. But I may still continue his friend. I may still know what has become of him. The wish surely is not criminal. When Jack comes out I will ask at him.</p>
                   </sp>
                </div>
@@ -3348,7 +3348,7 @@ I deserve surely, that you should like me a little; for I have ever and ever tho
                         <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ray for myself, but I soon found that I was praying for Liddy. When the sea was calm and smooth as glass, then I sought Liddy's image in it—and found it too—for I found it every where
-<pb n="55" facs="tcp:037748_0055_100EFF1985686258"/>
+<pb n="55" facs="unknown:037748_0055_100EFF1985686258"/>
 that I sought it—ah! and I found it often without seeking for it.</p>
                   </sp>
                   <sp>
@@ -3425,7 +3425,7 @@ Continue my friend.</p>
                   <sp>
                      <speaker>Fazir.</speaker>
                      <p>Yes, dear Miss, Fazir would suffer death for your sake.—Ah! it is only about six weeks ago, that we had a severe storm; I was very vexed at the thoughts of dying;
-<pb n="56" facs="tcp:037748_0056_100EFF1B09479470"/>
+<pb n="56" facs="unknown:037748_0056_100EFF1B09479470"/>
 for I wanted to see Liddy again.—I was a fool to be afraid of death; it would have been better if I had not seen Liddy again.</p>
                   </sp>
                   <sp>
@@ -3481,7 +3481,7 @@ exter<g ref="char:EOLhyphen"/>nals, however, must not be neglected; the sun inde
                   <sp>
                      <speaker>L. Smith.</speaker>
                      <p>I could have wished at least, that you had con<g ref="char:EOLhyphen"/>descended to borrow some warmth from his beams. You are not ignorant that this house is now under the dominion
-<pb n="57" facs="tcp:037748_0057_100EFF1CD4625688"/>
+<pb n="57" facs="unknown:037748_0057_100EFF1CD4625688"/>
 of want, and that we waited with anxiety for your fortunate return.</p>
                   </sp>
                   <sp>
@@ -3566,7 +3566,7 @@ May you always have fair weather, and a good wind to your voyage.</p>
                   </sp>
                </div>
                <div n="14" type="scene">
-                  <pb n="58" facs="tcp:037748_0058_100EFF1F97336848"/>
+                  <pb n="58" facs="unknown:037748_0058_100EFF1F97336848"/>
                   <head>SCENE XIV.</head>
                   <stage>ROBERT, FAZIR, <hi>and</hi> JACK.</stage>
                   <sp>
@@ -3636,7 +3636,7 @@ May you always have fair weather, and a good wind to your voyage.</p>
                         </gap>weather, we lay upon the deck in the warm sunshine, and the ship stood as if nailed to one spot; then would have been the time to tell me how the storm raged in your heart. Or how, has not Robert deserved your confidence? Am I not the only person that is acquainted with the secret of your birth? and have I betrayed you?</p>
                   </sp>
                   <sp>
-                     <pb n="59" facs="tcp:037748_0059_100EFF225CD81050"/>
+                     <pb n="59" facs="unknown:037748_0059_100EFF225CD81050"/>
                      <speaker>Fazir.</speaker>
                      <p>
                         <stage>[Falling upon his neck.]</stage>
@@ -3701,7 +3701,7 @@ Courage, brave youth—cleanse your bowsprit from spray-water, and hoist up all 
                      <p>Agreeable surprise!</p>
                   </sp>
                   <sp>
-                     <pb n="60" facs="tcp:037748_0060_100EFF23E255A088"/>
+                     <pb n="60" facs="unknown:037748_0060_100EFF23E255A088"/>
                      <speaker>Strussel.</speaker>
                      <p>To meet Mr. Staff in my way!</p>
                   </sp>
@@ -3819,7 +3819,7 @@ So! a marriage con<g ref="char:EOLhyphen"/>tract! ay, ay! a mere trifle! I am he
                      <p>Ay, ay! curious enough; and scarcely credible.</p>
                   </sp>
                   <sp>
-                     <pb n="61" facs="tcp:037748_0061_100EFF256EFE0B68"/>
+                     <pb n="61" facs="unknown:037748_0061_100EFF256EFE0B68"/>
                      <speaker>Strussel.</speaker>
                      <p>
                         <stage>[In a passion.]</stage>
@@ -3906,7 +3906,7 @@ Credible or not credible, it is yet true, Mr. Staff.</p>
 How! how! what the devil! Gentlemen, I believe you mean, in all haste, to have a little bout at boxing.</p>
                   </sp>
                   <sp>
-                     <pb n="62" facs="tcp:037748_0062_100EFF286A91BC50"/>
+                     <pb n="62" facs="unknown:037748_0062_100EFF286A91BC50"/>
                      <speaker>Strussel.</speaker>
                      <p>
                         <stage>[Pointing to Staff.]</stage>
@@ -3994,7 +3994,7 @@ Here is the contract, sir.</p>
                      <p>Yes, indeed.</p>
                   </sp>
                   <sp>
-                     <pb n="63" facs="tcp:037748_0063_100EFF2AC81686B0"/>
+                     <pb n="63" facs="unknown:037748_0063_100EFF2AC81686B0"/>
                      <speaker>Strussel.</speaker>
                      <p>Well, Mr. Staff.</p>
                   </sp>
@@ -4083,7 +4083,7 @@ Ha, ha, ha! we are the old thing again.</p>
                      <p>
                         <stage>[Consulting his own manuscript.]</stage>
 With your leave,
-<pb n="64" facs="tcp:037748_0064_100EFF2C5A759710"/>
+<pb n="64" facs="unknown:037748_0064_100EFF2C5A759710"/>
 Colleague, it ought to be: "Be it known hereby to all whom it may concern."</p>
                   </sp>
                   <sp>
@@ -4174,7 +4174,7 @@ Begone, begone; off, off, off.</p>
                   </sp>
                </div>
                <div n="4" type="scene">
-                  <pb n="65" facs="tcp:037748_0065_100EFF2E65A5D528"/>
+                  <pb n="65" facs="unknown:037748_0065_100EFF2E65A5D528"/>
                   <head>SCENE IV.</head>
                   <stage>KABERDAR, SAMUEL, TIDEWAITER, <hi>and</hi> STAFF.</stage>
                   <sp>
@@ -4242,7 +4242,7 @@ Ha, ha, ha!</p>
 What does my father command?</p>
                   </sp>
                   <sp>
-                     <pb n="66" facs="tcp:037748_0066_100EFF30D00355B0"/>
+                     <pb n="66" facs="unknown:037748_0066_100EFF30D00355B0"/>
                      <speaker>Kaberdar.</speaker>
                      <p>
                         <stage>[Pointing to Samuel.]</stage>
@@ -4329,7 +4329,7 @@ Sir, you will at once be my son and my brother.</p>
                   <sp>
                      <speaker>Kaberdar.</speaker>
                      <p>Indeed! then I must be a wonderful man; for wealth and generosity I have never yet found together. Every virtue may however degenerate; and so likewise may generosity. You know, Sir, that I am on the eve of taking another wife to myself, and it is not impossible that
-<pb n="67" facs="tcp:037748_0067_100EFF32B9884D50"/>
+<pb n="67" facs="unknown:037748_0067_100EFF32B9884D50"/>
 a dozen of children may hereafter lay claim to my paternal generosity.</p>
                   </sp>
                   <sp>
@@ -4409,7 +4409,7 @@ Bring you them up to be honest men, and make what else of them you please.</p>
                   </sp>
                </div>
                <div n="6" type="scene">
-                  <pb n="68" facs="tcp:037748_0068_100EFF344D45F6E8"/>
+                  <pb n="68" facs="unknown:037748_0068_100EFF344D45F6E8"/>
                   <head>SCENE VI.</head>
                   <stage>Sir JOHN, Lady SMITH, LIDDY, KABERDAR, GURLI, SA<g ref="char:EOLhyphen"/>MUEL, STAFF, <hi>and</hi> TIDEWAITER.</stage>
                   <sp>
@@ -4471,7 +4471,7 @@ All is well hitherto; but matters like these ought to be quickly and speedily co
                   <sp>
                      <speaker>Staff.</speaker>
                      <p>Yes, indeed; but before all, the due formalities ought to be observed.—Love, gratitude, and felicity, and
-<pb n="69" facs="tcp:037748_0069_100EFF367A743BC0"/>
+<pb n="69" facs="unknown:037748_0069_100EFF367A743BC0"/>
 all such nonsense as that, will come of itself, after matters are concluded.</p>
                   </sp>
                   <sp>
@@ -4549,7 +4549,7 @@ Yet once more, my daughter, be<g ref="char:EOLhyphen"/>think thyself well: the h
                   <sp>
                      <speaker>Kaberdar.</speaker>
                      <p>In God's name, it is thy free will—thy father's
-<pb n="70" facs="tcp:037748_0070_100EFF395AD34770"/>
+<pb n="70" facs="unknown:037748_0070_100EFF395AD34770"/>
 blessing— and, if God will, some good angel be with thee.
 <stage>Gurli about to write.</stage>
                      </p>
@@ -4641,7 +4641,7 @@ You are his guardian angel.</p>
                      <p>
                         <stage>[In a very friendly tone.]</stage>
 Your most obedient, hum<g ref="char:EOLhyphen"/>ble servant— all doubts are removed, Mr. Samuel Smith
-<pb n="71" facs="tcp:037748_0071_100EFF3B4B12D2D8"/>
+<pb n="71" facs="unknown:037748_0071_100EFF3B4B12D2D8"/>
 now embraces boldly, and courageously, a hasty resolution —write Gurli.</p>
                   </sp>
                   <sp>
@@ -4736,7 +4736,7 @@ favor me with a kiss.</p>
                      <p>The formalities have been drawn into length.</p>
                   </sp>
                   <sp>
-                     <pb n="72" facs="tcp:037748_0072_100EFF3D89449AB8"/>
+                     <pb n="72" facs="unknown:037748_0072_100EFF3D89449AB8"/>
                      <speaker>Samuel.</speaker>
                      <p>
                         <stage>[Urging Gurli.]</stage>
@@ -4853,7 +4853,7 @@ To me it is not equal.</p>
                      <p>Yes, indeed, and I thee too. But Gurli would wish to see thee for ever.</p>
                   </sp>
                   <sp>
-                     <pb n="73" facs="tcp:037748_0073_100EFF3FC7BA2258"/>
+                     <pb n="73" facs="unknown:037748_0073_100EFF3FC7BA2258"/>
                      <speaker>
                         <hi>Li<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
@@ -4948,7 +4948,7 @@ No! why not then?</p>
                   <sp>
                      <speaker>Gurli.</speaker>
                      <p>But I won't have him—I won't have him—I won't
-<pb n="74" facs="tcp:037748_0074_100EFF41B2291080"/>
+<pb n="74" facs="unknown:037748_0074_100EFF41B2291080"/>
 have him.—Thou foolish Samuel! what hast thou to do with Gurli? Gurli will not have thee.</p>
                   </sp>
                   <sp>
@@ -5032,7 +5032,7 @@ I have trode on the poor old man's sick foot. Indeed Gurli did not do it intenti
                            </gap>ement</hi> of the scene amuses me not a little.</p>
                   </sp>
                   <sp>
-                     <pb n="75" facs="tcp:037748_0075_100EFF4446609950"/>
+                     <pb n="75" facs="unknown:037748_0075_100EFF4446609950"/>
                      <speaker>Staff.</speaker>
                      <p>I have never yet met with <hi>spensalia,</hi> any thing like these in the whole course of my practice.</p>
                   </sp>
@@ -5122,7 +5122,7 @@ He is my loving brother.</p>
                   </sp>
                   <stage>Exit into her chamber.</stage>
                   <sp>
-                     <pb n="76" facs="tcp:037748_0076_100EFF4629BA6368"/>
+                     <pb n="76" facs="unknown:037748_0076_100EFF4629BA6368"/>
                      <speaker>Samuel.</speaker>
                      <p>
                         <stage>[After a pause]</stage>
@@ -5192,7 +5192,7 @@ My good friend, hoist your <gap reason="illegible" resp="#PDCC" extent="1 letter
                      <p>What think you, Sir? must old Jack too lie at an<g ref="char:EOLhyphen"/>chor without, and wait till you give him a signal?</p>
                   </sp>
                   <sp>
-                     <pb n="77" facs="tcp:037748_0077_100EFF47B1193AA8"/>
+                     <pb n="77" facs="unknown:037748_0077_100EFF47B1193AA8"/>
                      <speaker>Robert.</speaker>
                      <p>No: you may stay.
 <stage>[<hi>Gurli during this time had <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -5265,7 +5265,7 @@ What do you want, Miss.</p>
                      <p>But—but—the devil take it—it is rather knavish to supplant one's brother.—What think you, Jack? may an honest man carry off this prize with a safe conscience?</p>
                   </sp>
                   <sp>
-                     <pb n="78" facs="tcp:037748_0078_100EFF4A6AFB5B60"/>
+                     <pb n="78" facs="unknown:037748_0078_100EFF4A6AFB5B60"/>
                      <speaker>Jack.</speaker>
                      <p>You must know best how much water your frigate draws—but as to your brother, Sir, I would make no more ado with him, than I would with a mouldy biscuit. He struts about on the shore, indeed, with a painted bowsprit, and plenty of palaver; but I would not advise any smart wench ever to suffer him to come aboard.</p>
                   </sp>
@@ -5323,7 +5323,7 @@ Now thou art my dear bro<g ref="char:EOLhyphen"/>ther Robert.—Now will Gurli l
                   <sp>
                      <speaker>Robert.</speaker>
                      <p>I would willingly, however, honest comrade, know
-<pb n="79" facs="tcp:037748_0079_100EFF4CBAEDB568"/>
+<pb n="79" facs="unknown:037748_0079_100EFF4CBAEDB568"/>
 the longitude and latitude of your opinion. We Have been in so many holes and corners together, that you know me, both inside and out, as well as your own hammock—you have carried me in your arms before I was able to splice a rope; tell me, then, frankly and freely, what you think of this matter? The wench is handsome and good humoured, and has ten thousand pounds sterling.</p>
                   </sp>
                   <sp>
@@ -5363,7 +5363,7 @@ the longitude and latitude of your opinion. We Have been in so many holes and co
                      <p>But a wife is as little to be trusted as the most dan<g ref="char:EOLhyphen"/>gerous whirlpool upon the sea. At first it is a life full of ju<g ref="char:EOLhyphen"/>bilee and huzzas—but if you once sail against the stream of her inclinations, the storm immediately begins to roar, from south and north, from east and west. And then, only think, Sir; you now manage your own vessel as you please; you weigh anchor whenever you have a mind; you steer whi<g ref="char:EOLhyphen"/>thersoever you chuse; do you think, when you have taken a wife aboard, that your cable will be as long, and as free, as it has hitherto been?</p>
                   </sp>
                   <sp>
-                     <pb n="80" facs="tcp:037748_0080_100EFF4E44506E60"/>
+                     <pb n="80" facs="unknown:037748_0080_100EFF4E44506E60"/>
                      <speaker>Robert.</speaker>
                      <p>Hold your tongue, honest Jack: I now find that I was not in earnest when I asked your advice; for, in spite of all that you have alledged, I am resolved to tack about, and continue in the track, should I only have six points of the wind.</p>
                   </sp>
@@ -5424,7 +5424,7 @@ the longitude and latitude of your opinion. We Have been in so many holes and co
                      <p>Poor youth! what think you, Jack? can we not help him?</p>
                   </sp>
                   <sp>
-                     <pb n="81" facs="tcp:037748_0081_100EFF50A0B29B00"/>
+                     <pb n="81" facs="unknown:037748_0081_100EFF50A0B29B00"/>
                      <speaker>Jack.</speaker>
                      <p>He is deeply laden—he must throw his love over-board, else he will sink.</p>
                   </sp>
@@ -5473,7 +5473,7 @@ the longitude and latitude of your opinion. We Have been in so many holes and co
                   <sp>
                      <speaker>Fazir.</speaker>
                      <p>And what though? It seems to me that I never could have wanted at Liddy's side. Do you recollect the poor ne<g ref="char:EOLhyphen"/>gro, as we were once walking together in Jamaica? He was at work upon a sugar plantation; the sweat ran down his forehead; a pitcher of water stood by him, and yet he sang cheerily a Moorish song. My good friend, said you to him, this is a hard piece of work. That it is, gave he for answer, and wiped off the sweat with the palm of his hand. One question produced another. We asked him, how he was able to smile so contentedly at his hard fortune? He then pointed to a thicket a few paces off; under the thicket sat a black woman, with three little, half naked children, the youngest of whom was upon her breast. And while the ne<g ref="char:EOLhyphen"/>gro was pointing with his finger, he looked so delighted with
-<pb n="82" facs="tcp:037748_0082_100EFF530E1FAD48"/>
+<pb n="82" facs="unknown:037748_0082_100EFF530E1FAD48"/>
 himself—no—such another smile never adorned the counte<g ref="char:EOLhyphen"/>nance of a king. Ah! if Liddy had but been willing, Fazir would have laboured like that slave—and smiled like him.</p>
                   </sp>
                   <sp>
@@ -5561,7 +5561,7 @@ Not spirits!
                      </p>
                   </sp>
                   <sp>
-                     <pb n="83" facs="tcp:037748_0083_100EFF55007AB9F8"/>
+                     <pb n="83" facs="unknown:037748_0083_100EFF55007AB9F8"/>
                      <speaker>Gurli. &amp; Fazir.</speaker>
                      <stage>[At once.]</stage>
                      <p>Do you really live, Gurli?</p>
@@ -5639,7 +5639,7 @@ Where? where? father! father!</p>
                         <hi>Ciel!</hi> what a rude plebeian tumult!</p>
                   </sp>
                   <sp>
-                     <pb n="84" facs="tcp:037748_0084_100EFF56854B83B8"/>
+                     <pb n="84" facs="unknown:037748_0084_100EFF56854B83B8"/>
                      <speaker>Kaberdar.</speaker>
                      <p>
                         <stage>[Perceiving his son.]</stage>
@@ -5708,7 +5708,7 @@ Praised be Brama!</p>
                   <sp>
                      <speaker>Fazir.</speaker>
                      <p>On the tenth day of my flight, when hunger and fatigue had almost overcome me, I mounted a hill with great difficulty, and suddenly the boundless ocean lay before my sight. A foreign vessel had just sailed, and was scarcely a canon-shot from the shore. Ah! thought I, had I only ar<g ref="char:EOLhyphen"/>rived an hour sooner, this ship would have taken me up, and at once delivered me from all danger. I hastily untied my turban, and made the muslin flutter in the air, and beckon<g ref="char:EOLhyphen"/>ed and cried as loud as I could, but in vain: the ship sailed away with a fresh wind. I was almost in despair; and hunger drove me along the untrodden path, where I had hi<g ref="char:EOLhyphen"/>therto
-<pb n="85" facs="tcp:037748_0085_100EFF59027B3548"/>
+<pb n="85" facs="unknown:037748_0085_100EFF59027B3548"/>
 wandered, down to the shore. There I was care<g ref="char:EOLhyphen"/>lessly looking for cockles, indifferent whether I was disco<g ref="char:EOLhyphen"/>vered or not; when, all of a sudden, with what pleasure I beheld, behind the point of a rock, another ship lying at anchor; whose captain was this generous man
 <stage>[Pointing to Robert.]</stage>
 to whom I owe my deliverance and my life, and my preservation till this moment.</p>
@@ -5774,7 +5774,7 @@ Sir, when once you be<g ref="char:EOLhyphen"/>come a father, then will you feel,
                      <p>
                         <stage>[To Samuel.]</stage>
 Brother, you must not take it amiss
-<pb n="86" facs="tcp:037748_0086_100EFF5C2A7EE030"/>
+<pb n="86" facs="unknown:037748_0086_100EFF5C2A7EE030"/>
 of me; my generous resignation would not avail you; for even then she would not take you.</p>
                   </sp>
                   <sp>
@@ -5834,7 +5834,7 @@ of me; my generous resignation would not avail you; for even then she would not 
                   <sp>
                      <speaker>Kaberdar.</speaker>
                      <p>Hark you, dear youth, this is a matter which Liddy herself can alone determine.—You indeed are scarce twenty; and the freshness of youth blooms upon your cheek. I, on the other hand, carry the burden of five and thirty years upon my back.—However, so far as I know Liddy,
-<pb n="87" facs="tcp:037748_0087_100EFF5E9649A488"/>
+<pb n="87" facs="unknown:037748_0087_100EFF5E9649A488"/>
 this will scarcely influence her decision. Let us see, we will call her. If her heart declares in your favor, I will then cheerfully submit to my fate.</p>
                   </sp>
                   <sp>
@@ -5919,7 +5919,7 @@ Yes, I am a bride.</p>
                   </sp>
                   <stage>[Pointing to Kaberdar.]</stage>
                   <sp>
-                     <pb n="88" facs="tcp:037748_0088_100EFF60EAFDC878"/>
+                     <pb n="88" facs="unknown:037748_0088_100EFF60EAFDC878"/>
                      <speaker>Robert.</speaker>
                      <p>Hold, hold! not so hasty.</p>
                   </sp>
